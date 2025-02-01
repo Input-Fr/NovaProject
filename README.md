@@ -12,6 +12,7 @@ NovaProject is an episodic sci-fi saga that immerses players in a dangerous univ
 
 ## 🛠 Getting Started
 To commence your cosmic journey, simply visit the link above. Get up, Captain!
+If you want to edit the project you can install it from git and open it from Unity 2019.4.9f1
 
 ## 📡 Issues & Feedback
 Encounter an anomaly in the system? Have ideas to expand the universe? Report it in the [GitHub Issues](https://github.com/input-fr/NovaProject/issues) section.
