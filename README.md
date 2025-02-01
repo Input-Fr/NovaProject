@@ -1,3 +1,6 @@
+# ⚠️ Outdated Project Warning
+**This project is no longer actively maintained**
+
 # 🚀 NovaProject - Episode 1
 
 Welcome, cosmic adventurer, to **NovaProject - Episode 1**! 🌌 Prepare to embark on an electrifying journey through the unknown. This project is hosted on GitHub Pages and can be accessed here:
